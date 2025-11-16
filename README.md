@@ -7,7 +7,7 @@
 <h1 align="center">Hey Everyone! 🎮</h1>
 
 <p align="center">
-  <img src="bakror/bakror/me.gif" width="100%" />
+  <img src="https://github.com/bakror/bakror/blob/main/me.gif" width="100%" />
 </p>
 
 ---
