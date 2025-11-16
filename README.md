@@ -7,7 +7,7 @@
 <h1 align="center">Hey Everyone! 🎮</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/baktmohamed/baktmohamed/main/assets/banner.png" width="100%" />
+  <img src="bakror/bakror/me.gif" width="100%" />
 </p>
 
 ---
